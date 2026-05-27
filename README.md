@@ -32,7 +32,7 @@
 | ![dashboard](screenshots/dashboard.jpg) | ![telegram](screenshots/telegram_notify.jpg) | ![scheduler](screenshots/scheduler_task.jpg) |
 
 ## 🚀 Демонстрация
-Архив с рабочим проектом — в папке `demo/`.  
+Рабочий проект — в папке `demo/`.  
 Запустите `setup.bat` (один раз), затем `start_dashboard.bat`.
 
 ## 💰 Стоимость аналогичного решения под ваш источник данных
